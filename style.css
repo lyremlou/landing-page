@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto;
+    margin: 0;
+}
+
+.container-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #1F2937; 
+    padding: 20px 200px 200px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 75px;
+    
+}
+
+.logo-text {
+    margin: 0;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight:bolder;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB; 
+    
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+}
+
+.mid-header {
+    display: flex;
+}
+.awesome-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 8px 16px;
+}
+
+.student {
+    height: auto;
+    width: 600px;
+}
