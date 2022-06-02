@@ -13,6 +13,10 @@ body {
     padding: 20px 200px 200px;
 }
 
+.alignment {
+    width: 1200px;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -44,6 +48,11 @@ ul {
 
 .mid-header {
     display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    width: 500px;
 }
 .awesome-text {
     font-size: 48px;
@@ -66,5 +75,5 @@ ul {
 
 .student {
     height: auto;
-    width: 600px;
+    width: 500px;
 }
