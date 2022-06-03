@@ -82,3 +82,17 @@ ul {
     height: auto;
     width: 400px;
 }
+
+.container-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 55px 200px 100px;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
