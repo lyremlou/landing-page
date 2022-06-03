@@ -102,6 +102,7 @@ ul {
     display: flex;
     justify-content: center;
     width: 900px;
+    gap: 50px;
 }
 .box-container {
     display: flex;
@@ -115,10 +116,12 @@ ul {
     border-width: 4px;
     border-color:dodgerblue;
     border-radius: 15px;
+    margin-bottom: 10px;
 }
 
 .text {
     font-size: 18px;
-    color: #E5E7EB;
+    color: rgb(133, 133, 133);
+    width: 150px;
     text-align: center;
 }
