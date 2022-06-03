@@ -10,18 +10,18 @@ body {
     flex-direction: column;
     justify-content: space-between;
     background-color: #1F2937; 
-    padding: 20px 200px 200px;
+    padding: 20px 200px 100px;
 }
 
 .alignment {
-    width: 1200px;
+    width: 1050px;
     align-self: center;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 95px;
+    margin-bottom: 100px;
     
 }
 
