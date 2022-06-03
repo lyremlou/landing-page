@@ -15,12 +15,13 @@ body {
 
 .alignment {
     width: 1200px;
+    align-self: center;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 75px;
+    margin-bottom: 95px;
     
 }
 
