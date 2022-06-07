@@ -104,11 +104,13 @@ ul {
     width: 900px;
     gap: 50px;
 }
+
 .box-container {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 .box {
     height: 150px;
     width: 150px;
@@ -146,7 +148,22 @@ ul {
     display: flex;
     justify-content: flex-end;
 }
+
 .Thor {
     font-size: 25px;
     font-weight: bold; 
+}
+
+.container-four {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 100px 200px
+}
+
+.blue {
+    height: 150px;
+    width: 1050px;
+    border-radius: 10px;
+    background-color: #3882f6;
 }
