@@ -162,10 +162,19 @@ ul {
 }
 
 .blue {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     height: 150px;
-    width: 1050px;
+    width: 800px;
     border-radius: 10px;
     background-color: #3882f6;
+    padding: 0px 125px;
+}
+
+.left-blue {
+    display: flex;
+    flex-direction: column;
 }
 
 .call-to-action-text {
@@ -177,4 +186,16 @@ ul {
 .sign-up-text {
     color: #E5E7EB;
     font-size: 18px;;
+}
+
+.button-two {
+    border: solid white;
+    border-width: 2px;
+    border-radius: 8px;
+    padding: 8px 32px;
+    align-items: flex-end;
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
 }
