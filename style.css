@@ -199,3 +199,16 @@ ul {
     font-weight: bold;
     font-size: medium;
 }
+
+.container-five {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 50px;
+}
+
+.copyright-text {
+    color: #E5E7EB;
+    font-size: 18px; 
+}
