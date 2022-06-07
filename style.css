@@ -167,3 +167,14 @@ ul {
     border-radius: 10px;
     background-color: #3882f6;
 }
+
+.call-to-action-text {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.sign-up-text {
+    color: #E5E7EB;
+    font-size: 18px;;
+}
